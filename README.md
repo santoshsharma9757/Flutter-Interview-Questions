@@ -31,6 +31,12 @@ What is difference between Listview and Listview builder?
 
 what is Listview.generate?
 
+How can we achieve multi threading in Dart or Flutter?
+
+What is AnimationController and SingleTickerProviderStateMixin?
+
+How can we call multiple Api Paralelly?
+
 What is widget binding observer? when need to use it.
 
 What is didChangeDependencies? when we need to use.
