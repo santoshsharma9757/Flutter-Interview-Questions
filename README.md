@@ -21,7 +21,7 @@ How does Flutter achieve high performance?
 
 Explain the role of the Dart language in Flutter.
 
-Layout and Widgets
+### Layout and Widgets
 What are the primary layout widgets in Flutter?
 
 How can you create a responsive UI in Flutter?
@@ -42,7 +42,7 @@ What is a FutureBuilder widget?
 
 How can you create custom widgets in Flutter?
 
-State Management
+### State Management
 What are the different state management approaches in Flutter?
 
 What is the Provider package, and how does it work?
@@ -53,7 +53,7 @@ How do you use the Riverpod package for state management?
 
 What are ChangeNotifier and ChangeNotifierProvider?
 
-Networking and APIs
+### Networking and APIs
 How do you make HTTP requests in Flutter?
 
 What is the purpose of the http package?
@@ -64,7 +64,7 @@ Explain how to parse JSON data in Flutter.
 
 What are the differences between Future and Stream?
 
-Database and Local Storage
+### Database and Local Storage
 What is SQLite, and how can you use it in Flutter?
 
 Explain the purpose of the shared_preferences package.
@@ -75,7 +75,7 @@ What is the difference between local and remote databases?
 
 How do you manage migrations in a Flutter database?
 
-Testing and Debugging
+### Testing and Debugging
 What types of tests can you perform in Flutter?
 
 How do you write unit tests in Flutter?
@@ -86,7 +86,7 @@ How can you use the Flutter DevTools for debugging?
 
 What is the purpose of the flutter_test package?
 
-Deployment and Performance
+### Deployment and Performance
 How do you build a Flutter app for release?
 
 What are some common performance optimization techniques in Flutter?
@@ -97,7 +97,7 @@ What are the different ways to deploy a Flutter app?
 
 Explain the significance of the Flutter engine.
 
-Advanced Topics
+### Advanced Topics
 What is a Platform Channel in Flutter?
 
 How can you integrate native code into your Flutter app?
@@ -108,7 +108,7 @@ What is the role of the InheritedWidget?
 
 How do you handle internationalization and localization in Flutter?
 
-Dart Programming Questions
+### Dart Programming Questions
 What is a Singleton pattern in Dart?
 
 How do you implement a Singleton in Dart?
@@ -118,7 +118,6 @@ What is the purpose of the async and await keywords in Dart?
 Explain the concept of Futures and how they are used in Dart.
 
 What are the differences between List, Set, and Map in Dart?
-
 How do you handle exceptions in Dart?
 
 What is the purpose of mixins in Dart?
