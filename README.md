@@ -17,9 +17,23 @@ What is Gradle, and how does it relate to Flutter?
 
 What is the minimum and maximum API target for a Flutter application?
 
-How does Flutter achieve high performance?
-
 Explain the role of the Dart language in Flutter.
+
+What is treeshaking?
+
+How can we optimize our app size and performace.
+
+What is devtool?
+
+What is stream , when need to use?
+
+What is difference between Listview and Listview builder?
+
+what is Listview.generate?
+
+What is widget binding observer? when need to use it.
+
+What is didChangeDependencies? when we need to use.
 
 ### Layout and Widgets
 What are the primary layout widgets in Flutter?
